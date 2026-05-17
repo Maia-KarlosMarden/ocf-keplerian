@@ -4,7 +4,7 @@
 [![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-**Reference:** Maia, K. (2026). *The Orbital Coherence Function: A Keplerian Consistency Method for Accelerated Orbit Determination.* Independent Researcher, Marietta, Georgia, USA.
+**Reference:** Maia, K. (2026). *The Orbital Coherence Function: A Keplerian Pre-Filter for Ensemble Orbit Determination* Independent Researcher, Marietta, Georgia, USA.
 
 ---
 
@@ -38,7 +38,7 @@ where `G' ≡ ω²r³/M` is the *instantaneous gravitational coupling* — not a
 ## Quick Start
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ocf-keplerian.git
+git clone https://github.com/Maia-KarlosMarden/ocf-keplerian.git
 cd ocf-keplerian
 pip install -e ".[dev]"
 
