@@ -1,5 +1,5 @@
 # Orbital Coherence Function (OCF)
-### A Keplerian Consistency Method for Accelerated Orbit Determination
+### A Keplerian Pre-Filter for Ensemble Orbit Determination
 
 [![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
