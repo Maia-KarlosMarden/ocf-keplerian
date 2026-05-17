@@ -252,8 +252,7 @@ are all encouraged.
 ```bibtex
 @unpublished{maia2026ocf,
   author = {Maia, Karlos},
-  title  = {The Orbital Coherence Function: A Keplerian Consistency Method
-             for Accelerated Orbit Determination},
+  title  = {The Orbital Coherence Function: A Keplerian Pre-Filter for Ensemble Orbit Determination},
   year   = {2026},
   note   = {Independent Researcher, Marietta, Georgia, USA}
 }
